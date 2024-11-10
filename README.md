@@ -1,4 +1,5 @@
 # X-Modder
+(https://discord.gg/kpFdb9RWXK)
 This is a unity game modding tool
 this is a tool that you can mod unity games with heres how to use 
 
