@@ -22,4 +22,5 @@ this is a tool that you can mod unity games with heres how to use
 
 # INFO
 Currently only works for gtag fangames and copys this will be fixed soon
+but will remove antis for almost any game
 Made by snake =)
