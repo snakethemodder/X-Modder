@@ -1,6 +1,6 @@
 # X-Modder
 <p align="center">
-<a href="https://discord.gg/kpFdb9RWXK"><img src="https://img.shields.io/discord/663449315876012052?label=discord&style=for-the-badge&color=blueviolet"></a>
+<a href="https://discord.gg/kpFdb9RWXK"><img src="https://img.shields.io/discord/1305016247812882524?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
 This is a unity game modding tool
