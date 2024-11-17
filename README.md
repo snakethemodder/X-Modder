@@ -13,7 +13,7 @@ this is a tool that you can mod unity games with heres how to use
 3. when unity loaded add the unity package and read the info 
 4. use APK EASY TOOL to decompile the apk you want
 5. when done go back into unity click on X MODDER
-6. open the modding tool and maek a new mod name 
+6. open the modding tool and make a new mod name 
 7. select what you want it to enable 
 8. then build without apk 
 9. go back into APK EASY TOOL
