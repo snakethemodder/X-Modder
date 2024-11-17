@@ -1,4 +1,4 @@
-# X-Modder
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=X+Modder+Tool;Best+Free+Mods+.gg/snakes-mods)
 <p align="center">
 <a href="https://discord.gg/kpFdb9RWXK"><img src="https://img.shields.io/discord/1305016247812882524?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
